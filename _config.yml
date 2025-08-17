@@ -1,0 +1,17 @@
+title: Sai Bhargav - Java Developer
+description: Portfolio Website
+baseurl: "" 
+url: "https://saibhargav.github.io"
+remote_theme: mmistakes/minimal-mistakes
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+author:
+  name: Sai Bhargav
+  email: saibhargavt@outlook.com
+
+# Social links (optional)
+github_username: saibhargav-t
+LinkedIn: https://www.linkedin.com/in/saibhargav-t/
